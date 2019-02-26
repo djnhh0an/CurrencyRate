@@ -1,0 +1,14 @@
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/bin/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.deps.json
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/bin/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.runtimeconfig.json
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/bin/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.runtimeconfig.dev.json
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/bin/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.dll
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/bin/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.pdb
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/obj/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.csprojAssemblyReference.cache
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/obj/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/obj/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/obj/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.AssemblyInfo.cs
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/obj/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.dll
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.XUnitTest/obj/Debug/netcoreapp2.1/CurrencyRate.XUnitTest.pdb

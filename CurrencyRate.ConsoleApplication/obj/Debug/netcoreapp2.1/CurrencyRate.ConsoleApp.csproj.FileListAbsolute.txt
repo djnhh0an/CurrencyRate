@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\bin\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.deps.json
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\bin\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.runtimeconfig.json
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\bin\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\bin\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.dll
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\bin\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.pdb
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\obj\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\obj\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\obj\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\obj\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\obj\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.dll
+C:\Users\Admin\Desktop\Demo Project\CurrencyRate\CurrencyRate.ConsoleApp\obj\Debug\netcoreapp2.1\CurrencyRate.ConsoleApp.pdb

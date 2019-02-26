@@ -1,0 +1,14 @@
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/bin/Debug/netcoreapp2.1/CurrencyRate.RestApi.deps.json
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/bin/Debug/netcoreapp2.1/CurrencyRate.RestApi.runtimeconfig.json
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/bin/Debug/netcoreapp2.1/CurrencyRate.RestApi.runtimeconfig.dev.json
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/bin/Debug/netcoreapp2.1/CurrencyRate.RestApi.dll
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/bin/Debug/netcoreapp2.1/CurrencyRate.RestApi.pdb
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.csprojAssemblyReference.cache
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.RazorAssemblyInfo.cache
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.RazorAssemblyInfo.cs
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.AssemblyInfo.cs
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.RazorTargetAssemblyInfo.cache
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.dll
+C:/Users/Admin/Desktop/Demo Project/CurrencyRate/CurrencyRate.RestApi/obj/Debug/netcoreapp2.1/CurrencyRate.RestApi.pdb
